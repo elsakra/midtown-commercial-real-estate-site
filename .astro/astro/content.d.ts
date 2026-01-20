@@ -140,15 +140,14 @@ declare module 'astro:content' {
 	>;
 
 	type ContentEntryMap = {
-		"blog": {
-"get-to-inbox-zero.md": {
-	id: "get-to-inbox-zero.md";
-  slug: "get-to-inbox-zero";
+		"blog": Record<string, {
+  id: string;
+  slug: string;
   body: string;
   collection: "blog";
-  data: InferEntrySchema<"blog">
-} & { render(): Render[".md"] };
-};
+  data: InferEntrySchema<"blog">;
+  render(): Render[".md"];
+}>;
 "faq": {
 "migration.md": {
 	id: "migration.md";
@@ -211,22 +210,14 @@ declare module 'astro:content' {
   data: InferEntrySchema<"services">
 } & { render(): Render[".md"] };
 };
-"testimonials": {
-"founder.md": {
-	id: "founder.md";
-  slug: "founder";
+"testimonials": Record<string, {
+  id: string;
+  slug: string;
   body: string;
   collection: "testimonials";
-  data: InferEntrySchema<"testimonials">
-} & { render(): Render[".md"] };
-"sales-lead.md": {
-	id: "sales-lead.md";
-  slug: "sales-lead";
-  body: string;
-  collection: "testimonials";
-  data: InferEntrySchema<"testimonials">
-} & { render(): Render[".md"] };
-};
+  data: InferEntrySchema<"testimonials">;
+  render(): Render[".md"];
+}>;
 
 	};
 

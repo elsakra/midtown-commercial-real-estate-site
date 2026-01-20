@@ -9,25 +9,25 @@
     "hours": null
   },
   "branding": {
-    "logo": "https://res.cloudinary.com/dil14r8je/image/upload/v1768943216/auto-site-builder/Midtown%20Commercial%20Real%20Estate/image_0.png",
-    "primaryColor": "#1e40af",
+    "logo": "https://res.cloudinary.com/dil14r8je/image/upload/v1768944517/auto-site-builder/Midtown%20Commercial%20Real%20Estate/image_0.png",
+    "primaryColor": "#1e3a5f",
     "secondaryColor": null
   },
   "hero": {
-    "headline": "Take your business to a better space!",
-    "subheadline": "New York's boutique tenant and landlord representative",
+    "headline": "New York's boutique tenant and landlord representative",
+    "subheadline": "Take your business to a better space!",
     "cta": {
       "label": "Book an Appointment",
       "href": "/contact"
     },
     "secondaryCta": null,
-    "backgroundImage": "https://plus.unsplash.com/premium_photo-1748128051227-143832877d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8cmVhbCUyMGVzdGF0ZSUyMHByb3BlcnR5JTIwYmVhdXRpZnVsfGVufDB8MHx8fDE3Njg5MjA4MzZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "backgroundImage": "https://plus.unsplash.com/premium_photo-1764214512213-48f2d2e4bc91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8bW9kZXJuJTIwaG9tZSUyMGV4dGVyaW9yJTIwYXJjaGl0ZWN0dXJlfGVufDB8MHx8fDE3Njg5NDQ1NTB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "sections": {
     "about": {
       "headline": "About Us",
       "content": "Midtown Commercial Real Estate represents tenants and landlords in fulfilling their property needs. We walk tenants through each step of the process, working to identify properties that fit their unique business needs. We work diligently to represent our landlord clients in identifying tenants for their properties.",
-      "image": "https://plus.unsplash.com/premium_photo-1661881396947-8818501ba641?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8bHV4dXJ5JTIwaG91c2UlMjBpbnRlcmlvciUyMGRlc2lnbnxlbnwwfDB8fHwxNzY4OTIwODM2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+      "image": "https://plus.unsplash.com/premium_photo-1661375445819-c04f5418ff53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8YXBhcnRtZW50JTIwbGl2aW5nJTIwcm9vbSUyMG1vZGVybnxlbnwwfDB8fHwxNzY4OTQ0NTUxfDA&ixlib=rb-4.1.0&q=80&w=1080"
     },
     "services": {
       "headline": "Our Services"
