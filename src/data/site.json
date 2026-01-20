@@ -9,12 +9,12 @@
     "hours": null
   },
   "branding": {
-    "logo": "https://res.cloudinary.com/dil14r8je/image/upload/v1768941892/auto-site-builder/Midtown%20Commercial%20Real%20Estate/image_0.png",
+    "logo": "https://res.cloudinary.com/dil14r8je/image/upload/v1768943216/auto-site-builder/Midtown%20Commercial%20Real%20Estate/image_0.png",
     "primaryColor": "#1e40af",
     "secondaryColor": null
   },
   "hero": {
-    "headline": "Take Your Business to a Better Space",
+    "headline": "Take your business to a better space!",
     "subheadline": "New York's boutique tenant and landlord representative",
     "cta": {
       "label": "Book an Appointment",
@@ -58,7 +58,7 @@
       }
     ],
     "ctaButton": {
-      "label": "Find a Space",
+      "label": "Find a space!",
       "href": "/about"
     }
   },
