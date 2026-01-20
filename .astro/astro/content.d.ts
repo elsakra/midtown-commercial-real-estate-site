@@ -148,43 +148,50 @@ declare module 'astro:content' {
   data: InferEntrySchema<"blog">;
   render(): Render[".md"];
 }>;
-"faq": {
-"migration.md": {
-	id: "migration.md";
-  slug: "migration";
+"case-results": {
+"breach-of-contract.md": {
+	id: "breach-of-contract.md";
+  slug: "breach-of-contract";
   body: string;
-  collection: "faq";
-  data: InferEntrySchema<"faq">
+  collection: "case-results";
+  data: InferEntrySchema<"case-results">
 } & { render(): Render[".md"] };
-"security.md": {
-	id: "security.md";
-  slug: "security";
+"emergency-injunction.md": {
+	id: "emergency-injunction.md";
+  slug: "emergency-injunction";
   body: string;
-  collection: "faq";
-  data: InferEntrySchema<"faq">
+  collection: "case-results";
+  data: InferEntrySchema<"case-results">
+} & { render(): Render[".md"] };
+"executive-severance.md": {
+	id: "executive-severance.md";
+  slug: "executive-severance";
+  body: string;
+  collection: "case-results";
+  data: InferEntrySchema<"case-results">
 } & { render(): Render[".md"] };
 };
-"pricing-plans": {
-"enterprise.md": {
-	id: "enterprise.md";
-  slug: "enterprise";
+"faq": {
+"do-you-offer-free-consultations.md": {
+	id: "do-you-offer-free-consultations.md";
+  slug: "do-you-offer-free-consultations";
   body: string;
-  collection: "pricing-plans";
-  data: InferEntrySchema<"pricing-plans">
+  collection: "faq";
+  data: InferEntrySchema<"faq">
 } & { render(): Render[".md"] };
-"pro.md": {
-	id: "pro.md";
-  slug: "pro";
+"how-does-intake-work.md": {
+	id: "how-does-intake-work.md";
+  slug: "how-does-intake-work";
   body: string;
-  collection: "pricing-plans";
-  data: InferEntrySchema<"pricing-plans">
+  collection: "faq";
+  data: InferEntrySchema<"faq">
 } & { render(): Render[".md"] };
-"starter.md": {
-	id: "starter.md";
-  slug: "starter";
+"how-long-does-a-case-take.md": {
+	id: "how-long-does-a-case-take.md";
+  slug: "how-long-does-a-case-take";
   body: string;
-  collection: "pricing-plans";
-  data: InferEntrySchema<"pricing-plans">
+  collection: "faq";
+  data: InferEntrySchema<"faq">
 } & { render(): Render[".md"] };
 };
 "services": {
@@ -208,6 +215,15 @@ declare module 'astro:content' {
   body: string;
   collection: "services";
   data: InferEntrySchema<"services">
+} & { render(): Render[".md"] };
+};
+"team": {
+"steve-leiter.md": {
+	id: "steve-leiter.md";
+  slug: "steve-leiter";
+  body: string;
+  collection: "team";
+  data: InferEntrySchema<"team">
 } & { render(): Render[".md"] };
 };
 "testimonials": Record<string, {
