@@ -1,0 +1,75 @@
+{
+  "company": {
+    "name": "Midtown Commercial Real Estate",
+    "tagline": "Take Your Business to a Better Space",
+    "description": "New York's boutique tenant and landlord representative. Midtown Commercial Real Estate represents tenants and landlords in fulfilling their property needs. We walk tenants through each step of the process, working to identify properties that fit their unique business needs.",
+    "phone": "(212) 947-5500",
+    "email": "Steve@midcomre.com",
+    "address": "450 Seventh Avenue, Suite 2702, New York, New York 10123",
+    "hours": null
+  },
+  "branding": {
+    "logo": "https://res.cloudinary.com/dil14r8je/image/upload/v1768920800/auto-site-builder/Midtown%20Commercial%20Real%20Estate/image_0.png",
+    "primaryColor": "#1e40af",
+    "secondaryColor": null
+  },
+  "hero": {
+    "headline": "New York's boutique tenant and landlord representative",
+    "subheadline": "Take your business to a better space!",
+    "cta": {
+      "label": "Book an Appointment",
+      "href": "http://www.midcomre.com/"
+    },
+    "secondaryCta": null,
+    "backgroundImage": "https://plus.unsplash.com/premium_photo-1748128051227-143832877d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8cmVhbCUyMGVzdGF0ZSUyMHByb3BlcnR5JTIwYmVhdXRpZnVsfGVufDB8MHx8fDE3Njg5MjA4MzZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "sections": {
+    "about": {
+      "headline": "About Us",
+      "content": "Midtown Commercial Real Estate represents tenants and landlords in fulfilling their property needs. We walk tenants through each step of the process, working to identify properties that fit their unique business needs. We work diligently to represent our landlord clients in identifying tenants for their properties.",
+      "image": "https://plus.unsplash.com/premium_photo-1661881396947-8818501ba641?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8bHV4dXJ5JTIwaG91c2UlMjBpbnRlcmlvciUyMGRlc2lnbnxlbnwwfDB8fHwxNzY4OTIwODM2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    "services": {
+      "headline": "Our Services"
+    },
+    "team": {
+      "headline": "Our Brokers"
+    },
+    "testimonials": {
+      "headline": "What Our Clients Say"
+    },
+    "contact": {
+      "headline": "Contact Us"
+    }
+  },
+  "navigation": {
+    "items": [
+      {
+        "label": "About",
+        "href": "/about"
+      },
+      {
+        "label": "Services",
+        "href": "/services"
+      },
+      {
+        "label": "Contact",
+        "href": "/contact"
+      }
+    ],
+    "ctaButton": {
+      "label": "Find a space!",
+      "href": "/about"
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 Midtown Commercial Real Estate. All rights reserved.",
+    "socialLinks": {
+      "facebook": null
+    }
+  },
+  "seo": {
+    "title": "Midtown Commercial Real Estate - Midtown Commercial Real Estate | Take Your Business to a Better Space",
+    "description": null
+  }
+}
