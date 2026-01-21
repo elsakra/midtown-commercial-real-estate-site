@@ -9,8 +9,8 @@
     "hours": null
   },
   "branding": {
-    "logo": "https://res.cloudinary.com/dil14r8je/image/upload/v1769013527/auto-site-builder/Midtown%20Commercial%20Real%20Estate/image_0.png",
-    "primaryColor": "#1e3a5f",
+    "logo": "https://res.cloudinary.com/dil14r8je/image/upload/v1769014498/auto-site-builder/Midtown%20Commercial%20Real%20Estate/image_0.png",
+    "primaryColor": "#1e40af",
     "secondaryColor": null
   },
   "hero": {
@@ -21,25 +21,25 @@
       "href": "/services-list"
     },
     "secondaryCta": null,
-    "backgroundImage": "https://plus.unsplash.com/premium_photo-1661375445819-c04f5418ff53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8YXBhcnRtZW50JTIwbGl2aW5nJTIwcm9vbSUyMG1vZGVybnxlbnwwfDB8fHwxNzY5MDEzNzY1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "backgroundImage": "https://plus.unsplash.com/premium_photo-1661881396947-8818501ba641?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8bHV4dXJ5JTIwaG91c2UlMjBpbnRlcmlvciUyMGRlc2lnbnxlbnwwfDB8fHwxNzY4OTQwMDE4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "sections": {
     "about": {
       "headline": "Who Are We",
-      "content": "Midtown Commercial Real Estate is New York's boutique tenant and landlord representative helping to service your every need! With over 30 years in the industry and having worked with over 2 million square feet of space, we have the experience needed to service your requests. Our firm is composed of over 10 highly experienced brokers, each specialized in specific sectors of commercial real estate.",
+      "content": "Midtown Commercial Real Estate is New York's boutique tenant and landlord representative helping to service your every need! With over 30 years in the industry and having worked with over 2 million square feet of space, we have the experience needed to service your requests. Our firm is composed of over 10 highly experienced brokers, each specialized in specific sectors of commercial real estate. We walk tenants through each step of the process, working to identify properties that fit their unique business needs.",
       "image": "https://res.cloudinary.com/dil14r8je/image/upload/v1769013523/auto-site-builder/Midtown%20Commercial%20Real%20Estate/image_50.jpg",
       "values": [
         {
-          "title": "Tenant Representation",
-          "description": "At no cost to the tenant, we do the due diligence required to find you the perfect property for your business"
-        },
-        {
-          "title": "Landlord Representation",
-          "description": "Our agents give buyers and other brokers the tools to see and show your spaces to more clients"
-        },
-        {
           "title": "30+ Years Experience",
-          "description": "Over 30 years in the industry and having worked with over 2 million square feet of space"
+          "description": "Over 30 years in the industry with 2+ million square feet of space handled"
+        },
+        {
+          "title": "Expert Brokers",
+          "description": "Over 10 highly experienced brokers specialized in specific sectors"
+        },
+        {
+          "title": "Full Service",
+          "description": "Tenant and landlord representation with personalized service"
         }
       ]
     },
@@ -47,7 +47,7 @@
       "headline": "Our Services"
     },
     "team": {
-      "headline": "Our Team"
+      "headline": "Our Brokers"
     },
     "testimonials": {
       "headline": "What Our Clients Say"

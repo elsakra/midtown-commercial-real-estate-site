@@ -1,7 +1,7 @@
 ---
 title: "Landlord Representation"
 shortDescription: "We work diligently to represent our landlord clients in identifying tenants for their properties."
-image: "https://plus.unsplash.com/premium_photo-1748128051227-143832877d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8cmVhbCUyMGVzdGF0ZSUyMHByb3BlcnR5JTIwYmVhdXRpZnVsfGVufDB8MHx8fDE3NjkwMTM3ODB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1666037805138-f227944ed8d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Mnx8bHV4dXJ5JTIwaG91c2UlMjBpbnRlcmlvciUyMGRlc2lnbnxlbnwwfDB8fHwxNzY5MDE0NzM3fDA&ixlib=rb-4.1.0&q=80&w=1080"
 
 
 features:

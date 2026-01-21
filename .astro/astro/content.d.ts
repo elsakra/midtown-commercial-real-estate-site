@@ -201,43 +201,14 @@ declare module 'astro:content' {
   data: InferEntrySchema<"services">
 } & { render(): Render[".md"] };
 };
-"team": {
-"evan-salz.md": {
-	id: "evan-salz.md";
-  slug: "evan-salz";
+"team": Record<string, {
+  id: string;
+  slug: string;
   body: string;
   collection: "team";
-  data: InferEntrySchema<"team">
-} & { render(): Render[".md"] };
-"karl-simpson.md": {
-	id: "karl-simpson.md";
-  slug: "karl-simpson";
-  body: string;
-  collection: "team";
-  data: InferEntrySchema<"team">
-} & { render(): Render[".md"] };
-"paul-stern.md": {
-	id: "paul-stern.md";
-  slug: "paul-stern";
-  body: string;
-  collection: "team";
-  data: InferEntrySchema<"team">
-} & { render(): Render[".md"] };
-"steve-leiter.md": {
-	id: "steve-leiter.md";
-  slug: "steve-leiter";
-  body: string;
-  collection: "team";
-  data: InferEntrySchema<"team">
-} & { render(): Render[".md"] };
-"sung-g-cho.md": {
-	id: "sung-g-cho.md";
-  slug: "sung-g-cho";
-  body: string;
-  collection: "team";
-  data: InferEntrySchema<"team">
-} & { render(): Render[".md"] };
-};
+  data: InferEntrySchema<"team">;
+  render(): Render[".md"];
+}>;
 "testimonials": Record<string, {
   id: string;
   slug: string;
