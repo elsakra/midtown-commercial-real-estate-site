@@ -2,44 +2,44 @@
   "company": {
     "name": "Midtown Commercial Real Estate",
     "tagline": "Take Your Business to a Better Space",
-    "description": "New York's boutique tenant and landlord representative. Midtown Commercial Real Estate represents tenants and landlords in fulfilling their property needs. We walk tenants through each step of the process, working to identify properties that fit their unique business needs. We work diligently to represent our landlord clients in identifying tenants for their properties.",
+    "description": "Midtown Commercial Real Estate is New York's boutique tenant and landlord representative helping to service your every need! With over 30 years in the industry and having worked with over 2 million square feet of space, we have the experience needed to service your requests. Our firm is composed of over 10 highly experienced brokers, each specialized in specific sectors of commercial real estate.",
     "phone": "(212) 947-5500",
-    "email": null,
+    "email": "midcomre@aol.com",
     "address": "450 Seventh Avenue, Suite 2702, New York, New York 10123",
     "hours": null
   },
   "branding": {
-    "logo": "https://res.cloudinary.com/dil14r8je/image/upload/v1768946457/auto-site-builder/Midtown%20Commercial%20Real%20Estate/image_0.png",
-    "primaryColor": "#1e3a5f",
+    "logo": "https://res.cloudinary.com/dil14r8je/image/upload/v1769013527/auto-site-builder/Midtown%20Commercial%20Real%20Estate/image_0.png",
+    "primaryColor": "#1e40af",
     "secondaryColor": null
   },
   "hero": {
     "headline": "New York's boutique tenant and landlord representative",
-    "subheadline": "Take your business to a better space!",
+    "subheadline": "Take your business to a better space! Midtown Commercial Real Estate represents tenants and landlords in fulfilling their property needs.",
     "cta": {
-      "label": "Find a space",
+      "label": "Start Searching Spaces",
       "href": "/contact"
     },
     "secondaryCta": null,
-    "backgroundImage": "https://plus.unsplash.com/premium_photo-1748128051227-143832877d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8cmVhbCUyMGVzdGF0ZSUyMHByb3BlcnR5JTIwYmVhdXRpZnVsfGVufDB8MHx8fDE3Njg5MjA4MzZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "backgroundImage": "https://plus.unsplash.com/premium_photo-1661375445819-c04f5418ff53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8YXBhcnRtZW50JTIwbGl2aW5nJTIwcm9vbSUyMG1vZGVybnxlbnwwfDB8fHwxNzY5MDEzNzY1fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "sections": {
     "about": {
-      "headline": "About Us",
-      "content": "Midtown Commercial Real Estate represents tenants and landlords in fulfilling their property needs. We walk tenants through each step of the process, working to identify properties that fit their unique business needs. We work diligently to represent our landlord clients in identifying tenants for their properties. At Midtown Commercial we always have your best interests in mind.",
-      "image": "https://plus.unsplash.com/premium_photo-1661881396947-8818501ba641?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8bHV4dXJ5JTIwaG91c2UlMjBpbnRlcmlvciUyMGRlc2lnbnxlbnwwfDB8fHwxNzY4OTIwODM2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "headline": "Who Are We",
+      "content": "Midtown Commercial Real Estate is New York's boutique tenant and landlord representative helping to service your every need! With over 30 years in the industry and having worked with over 2 million square feet of space, we have the experience needed to service your requests. Our firm is composed of over 10 highly experienced brokers, each specialized in specific sectors of commercial real estate. We walk tenants through each step of the process, working to identify properties that fit their unique business needs.",
+      "image": "https://plus.unsplash.com/premium_photo-1748128051227-143832877d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8cmVhbCUyMGVzdGF0ZSUyMHByb3BlcnR5JTIwYmVhdXRpZnVsfGVufDB8MHx8fDE3NjkwMTM3NjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "values": [
         {
           "title": "Tenant Representation",
-          "description": "Our leasing experts give you the most for your business by showing you more options that fit your needs"
+          "description": "At no cost to the tenant, we find you the perfect property for your business"
         },
         {
-          "title": "Landlord Services",
-          "description": "We give landlords more by providing tools to show spaces to more clients and get properties on-market faster"
+          "title": "Landlord Representation",
+          "description": "We give landlords more by helping identify quality tenants for their properties"
         },
         {
-          "title": "Expert Guidance",
-          "description": "We utilize experts that will get you the lease you deserve with your best interests in mind"
+          "title": "30+ Years Experience",
+          "description": "Over 2 million square feet of space handled with specialized expertise"
         }
       ]
     },
@@ -72,8 +72,8 @@
       }
     ],
     "ctaButton": {
-      "label": "Book an Appointment",
-      "href": "/contact"
+      "label": "Find a space!",
+      "href": "/about"
     }
   },
   "footer": {
