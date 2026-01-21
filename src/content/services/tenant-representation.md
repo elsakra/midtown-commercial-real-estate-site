@@ -1,12 +1,13 @@
 ---
 title: "Tenant Representation"
-shortDescription: "Find you a new space through an expansive analysis of your companies current position and future potential"
+shortDescription: "Find you a new space through an expansive analysis of your companies current position and future potential."
 image: "https://res.cloudinary.com/dil14r8je/image/upload/v1769013523/auto-site-builder/Midtown%20Commercial%20Real%20Estate/image_50.jpg"
 price: "At no cost to the tenant"
 
 features:
-  - "Find you a new space through an expansive analysis of your companies current position and future potential"
-  - "Analyze your current lease, work to ensure that you are being treated fairly by your landlord"
+  - "Find you a new space through an expansive analysis"
+  - "Analyze your current lease"
+  - "Work to ensure that you are being treated fairly by your landlord"
 order: 1
 ---
 
